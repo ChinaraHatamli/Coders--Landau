@@ -1,0 +1,25 @@
+form {
+  background-color: red;
+  color: white;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+a [href=""] {
+  color: red;
+}
+
+.list-item {
+  width: 100 px;
+  height: 50 px;
+  background-color: red;
+}
+
+#footer {
+  width: 100%;
+  height: auto;
+  font-size: 30px;
+  background-color: black;
+}/*# sourceMappingURL=style.css.map */
